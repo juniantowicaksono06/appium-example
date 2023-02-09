@@ -9,11 +9,11 @@ from datetime import datetime
 import time
 
 desired_caps = {
-    "deviceName": "Pixel_4",
+    "deviceName": "SM-A525F",
     "platformName": "Android",
-    "version" : "11",
+    "version" : "12",
     "browserName": "Chrome",
-    "chromedriverExecutable": 'C:\\Users\\AYU FM. PRADINI\\Documents\\Kerja\\appium\\latihan1\\chromedriver.exe',
+    "chromedriverExecutable": 'C:\\Users\\DIGIPOS-PC\\Documents\\trial\\chromedriver.exe',
 }
 
 
